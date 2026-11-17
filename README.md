@@ -52,6 +52,9 @@ Gyms lose a large share of members each year, and acquiring a new member costs m
 | Monthly Revenue Lost | Monthly fees of churned members |
 | Avg Satisfaction | Mean satisfaction score (1–5) |
 | At-Risk Members | Active members with no visit in 14+ days |
+
+## Dasboard
+<a href="https://github.com/Jaseel7012/Retention-and-Churn-Analysis-Dashboard/blob/main/Screenshot%20(91).png">Dashboard</a>
 ## Key Insights
 **20K members**, **27.8% churn**, **72.2% retention**, about **6M monthly revenue lost**
 - Average satisfaction is **3.77 / 5**
